@@ -1,6 +1,5 @@
 --商品別の売上ランキング（ABC分析）
 
-
 WITH product_sales AS (
 --商品ごとの売上合計の計算
   SELECT
