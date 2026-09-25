@@ -1,14 +1,14 @@
-01_「目次」/ ポートフォリオ
+「目次」/ ポートフォリオ
 
  ● GitHubに格納しているポートフォリオ一覧
 
-　・【Excel】：関数一覧(概要付き)
+　・【Excel】：関数一覧(概要付き)　※「View raw」よりダウンロードしてご確認ください。
 
 　・概要_アパレルECサイト「The Look」 購買データ分析
 
-　・【Excel版】アパレルECサイト「The Look」 購買データ分析
+　・【Excel版】アパレルECサイト「The Look」 購買データ分析　※「View raw」よりダウンロードしてご確認ください。
 
-　・【PowerPoint版】アパレルECサイト「The Look」 購買データ分析
+　・【PowerPoint版】アパレルECサイト「The Look」 購買データ分析　※「View raw」よりダウンロードしてご確認ください。
 
 　・SQLコード
 
